@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="801">
+  <kit name="Kz Lissajous Curve" restart="YES">
+    <source target="Kz_LissajousCurve/index.cfg">index.cfg</source>
+    <source target="Kz_LissajousCurve/index.xml">index.xml</source>
+    <source target="Kz_LissajousCurve/Configs/KZLC_Launch.cfg">Configs/KZLC_Launch.cfg</source>
+    <source target="Kz_LissajousCurve/Configs/KZLC_Sheet.cfg">Configs/KZLC_Sheet.cfg</source>
+    <source target="Kz_LissajousCurve/Configs/KZLC_Vars.cfg">Configs/KZLC_Vars.cfg</source>
+    <source target="Kz_LissajousCurve/Icons/KZLC_Icon.png">Icons/KZLC_Icon.png</source>
+    <source target="Kz_LissajousCurve/Scripts/KZLC_DrawCurve.py">Scripts/KZLC_DrawCurve.py</source>
+    <source target="Kz_LissajousCurve/Scripts/KZLC_Math.py">Scripts/KZLC_Math.py</source>
+  </kit>
+  <message button="Help">Kz_LissajousCurve Kit installation complete.</message>
+</package>
+
+<!-- http://modo.sdk.thefoundry.co.uk/wiki/Kits -->
+
+
