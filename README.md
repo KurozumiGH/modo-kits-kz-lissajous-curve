@@ -21,6 +21,6 @@ https://youtu.be/vX6tuzovHw0
 1. 画面の表示に従ってMODOを再起動
 
 ## クイックスタートガイド
-以下のYouTube動画をご参照ください（日本語字幕付きです）
+以下のYouTube動画をご参照ください（日本語字幕付きです）  
 https://youtu.be/vX6tuzovHw0
 
